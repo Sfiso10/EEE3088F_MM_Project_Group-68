@@ -17,16 +17,17 @@ The schematic reference provides a detailed view of the sensor PCB, helping you 
 
 ## Setting Up STM32CubeIDE
 Learn how to download and set up the Arduino software and STM32CubeIDE for programming and debugging the sensor subsystem.
-  The components must be soldered in order to maintain a solid electrical connection between two circuit elements. For ease, it's recommended that you follow the order listed below of components to solder. This will help prevent a mess or short circuits.
+
+## Soldering Components
+Follow step-by-step instructions on how to solder each component onto the PCB correctly, ensuring proper functionality of the sensor subsystem.
+
+The components must be soldered in order to maintain a solid electrical connection between two circuit elements. For ease, it's recommended that you follow the order listed below of components to solder. This will help prevent a mess or short circuits.
     On the schematic, the IR Emitters are labeled as D0, D1, D2, and D3. Find the corresponding labels on the PCB. They should be at the front of the board
 Place the shorter end of the emitter in the positive throughole of the corresponding pad and the longer end through the negative side. For reference, the D0 pad is shown below.
 
 After inserting the emitter all the way, bend the emitter's leads so that the emitter lines up parallel to the PCB AND it is centered on the emitter sillhouette on the PCB. You can now solder the emitter.
 Repeat the same process for the IR Receivers. The receivers are located right next to the emitters, and are labelled as Q0, Q1, Q2, and Q3. For the receivers, the short end is also the positive end
 When you're soldering the components, make sure that the LEDs line up with the sillhouettes as much as possible. In other words, the length of the leads above the PCB should be as short as possible. This will ensure that one receiver from one set will not have interference from an emitter of another set.
-
-## Soldering Components
-Follow step-by-step instructions on how to solder each component onto the PCB correctly, ensuring proper functionality of the sensor subsystem.
 
 ## Testing
 Use breadboards to test the components before soldering them onto the PCB, ensuring they work as expected.
