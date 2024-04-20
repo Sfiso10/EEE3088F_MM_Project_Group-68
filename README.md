@@ -57,5 +57,5 @@ If you'd like to contribute to this project, please follow these guidelines:
 This project is licensed under the [License Name] - see the `LICENSE` file for details.
 
 ## Other Resources
-[Git Markdown](https://git-scm.com/book/en/v2)
-[How to Read a Datasheet](https://www.sparkfun.com/tutorials/223)
+- [Git Markdown](https://git-scm.com/book/en/v2)
+- [How to Read a Datasheet](https://www.sparkfun.com/tutorials/223)
