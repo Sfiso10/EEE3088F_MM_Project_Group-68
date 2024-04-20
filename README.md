@@ -34,7 +34,8 @@ To get started with the Micromouse project, follow these steps:
 
 ## Dependencies
 
-- [List any dependencies here]
+- KiCad: For your PCB design, you likely used KiCad, an open-source software for designing electronic schematics and PCBs.
+- STM32CubeIDE: This is an Integrated Development Environment (IDE) for STM32 microcontrollers, which you mentioned using in your project.
 
 ## Power Subsystem
 
@@ -57,6 +58,6 @@ This project is licensed under the [License Name] - see the `LICENSE` file for d
 
 ## Acknowledgements
 
-- [List any acknowledgements or credits here]
+
 
 ---
