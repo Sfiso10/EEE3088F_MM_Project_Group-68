@@ -1,10 +1,6 @@
 # EEE3088F_MM_Project_Group-68
 
-Certainly! Here's an updated README file that includes the power subsystem:
-
 ---
-
-# Micromouse Project
 
 This repository contains the code and documentation for my Micromouse project, developed for [insert course or competition name here].
 
