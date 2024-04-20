@@ -33,7 +33,9 @@ When you're soldering the components, make sure that the LEDs line up with the s
 Use breadboards to test the components before soldering them onto the PCB, ensuring they work as expected.
 
 ## Software
-Find programming instructions and suggestions for interfacing the sensor subsystem with other components of the micromouse.
+Here are some useful KiCad Tutorials and STM32CubeIDE for brand-new starters:
+KiCad Tutorials: (https://www.youtube.com/watch?v=vaCVh2SAZY4&list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB)
+STM32CubeIDE: (https://www.youtube.com/watch?v=gL8OoS9E1rw&list=PLnMKNibPkDnFCosVVv98U5dCulE6T3Iy8)
 
 ## 3D Printed Parts
 Additional resources for designing and printing 3D parts for the micromouse, including CAD files and printing instructions.
