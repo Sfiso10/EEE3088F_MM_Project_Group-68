@@ -3,11 +3,11 @@
 This repository contains the necessary resources and documentation for building the sensor subsystem of a micromouse. The sensor subsystem is responsible for detecting obstacles and walls in the maze, allowing the micromouse to navigate effectively.
 
 ## Useful Resources
-- [YouTube Playlist](https://www.youtube.com/watch?v=UHWE3d_au30&list=PLAWsHzw_h0iiPIaGyXAr44G0XfHfyjOe7): Helpful video references on understanding the project, safety, PID control, and more.
+- [YouTube Playlist](https://www.youtube.com/watch?v=UHWE3d_au30&list=PLAWsHzw_h0iiPIaGyXAr44G0XfHfyjOe7): Helpful video references on understanding the project, safety, Motor control, and more.
 
 ## Navigation
 - **Schematic Reference**: Shows the schematic of the sensor PCB.
-- **Setting Up Arduino and STM32CubeIDE**: Instructions for downloading and setting up the STM32CubeIDE software.
+- **Setting Up STM32CubeIDE**: Instructions for downloading and setting up the STM32CubeIDE software.
 - **Soldering Components**: Instructions for soldering each component onto the PCB.
 - **Testing**: Testing components using breadboards.
 - **Software**: Programming instructions and suggestions.
@@ -16,7 +16,7 @@ This repository contains the necessary resources and documentation for building 
 The schematic reference provides a detailed view of the sensor PCB, helping you understand the connections and components used in the subsystem.
 
 ## Setting Up STM32CubeIDE
-Learn how to download and set up the Arduino software and STM32CubeIDE for programming and debugging the sensor subsystem.
+Learn how to download and set up the STM32CubeIDE software for programming and debugging the sensor subsystem.
 
 ## Soldering Components
 Follow step-by-step instructions on how to solder each component onto the PCB correctly, ensuring proper functionality of the sensor subsystem.
