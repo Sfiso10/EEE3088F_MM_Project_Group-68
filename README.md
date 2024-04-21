@@ -2,7 +2,7 @@
 
 ---
 
-This repository contains the code and documentation for my Micromouse project, developed for [insert course or competition name here].
+This repository contains the code and documentation for my Micromouse project, developed for the University of Cape Town.
 
 ## Overview
 
@@ -21,7 +21,7 @@ The Micromouse is a small autonomous robot designed to navigate a maze. This pro
 To get started with the Micromouse project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the necessary software and tools (list them here).
+2. Install the necessary software and tools (STM32CubeIDE, KiCad).
 3. Compile and upload the code to your Micromouse robot.
 4. Test the robot in a maze environment.
 
@@ -39,7 +39,7 @@ To get started with the Micromouse project, follow these steps:
 
 ## Power Subsystem
 
-The power subsystem for the Micromouse project includes a LiPo battery (specify details here) for powering the robot. The power subsystem is responsible for providing stable power to all components of the Micromouse.
+The power subsystem for the Micromouse project includes a LiPo battery (1S1P) for powering the robot. The power subsystem is responsible for providing stable power to all components of the Micromouse.
 
 ## Contributing
 
